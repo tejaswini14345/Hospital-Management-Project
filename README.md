@@ -1,11 +1,8 @@
 # Hospital Management System - HealthMate Project
 This is a Java based Hospital Management System project.
-This project was made for the course Object Oriented Programming-1 (Java) by the students of **American International University-Bangladesh (AIUB)** and guided by **UMME SADIA SALSABIL**, ***LECTURER,AIUB***.
-Team members are -  **@UDDIN, MD.ALFAZ @SHAMIM, MD. SHAFAYAT HOSSAIN @RIYAD, KAZI FARDIN RAHMAN @DAS, ANIQUE KUMAR**
+This project was made for the course Object Oriented Programming-1 (Java) by the students of **KL University** guided by **Ashish**
+Team members are -  **Tejaswini Betina, Satish Kumar, Kachineni Vaishnavi**
 
-# Current version
-    V1.0.1   released on   28-12-2024   by   Alfaz
-  Check releases https://github.com/alfaaz-uddin/Hospital-Management-Project/releases/
 # In this  project -
 📌The admin can login and control the management system.<br>
 📌By default the username and password is "admin"<br>
